@@ -30,10 +30,10 @@ As Linus Torvalds said:
 Project | Status
 --------|--------
 [Discord Bot](https://github.com/ROHIT318/discord-bot-hitman) | Open for enhancement
+[Secret Message](https://github.com/ROHIT318/secret-message) | In development phase
 
 # 👷Projects that currently, I am working on
 
 Project | Status
 --------|--------
 [Blog](https://github.com/ROHIT318/rohit-blog) | In development phase
-[Secret Message](https://github.com/ROHIT318/secret-message) | In development phase
