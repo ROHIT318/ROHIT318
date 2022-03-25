@@ -14,8 +14,7 @@
 
 # 📲Get connected with me
 
-* Connect with me on my [LinkedIn account](https://www.linkedin.com/in/rohit-sharma-4927311b2/)
-* Ask me on my [Discord server](https://discord.gg/2q3AUvPmDE)
+* Connect with me on my [LinkedIn account](https://www.linkedin.com/in/rohit318/)
 
 # 😃About me
 
@@ -36,4 +35,5 @@ Project | Status
 
 Project | Status
 --------|--------
-[Blog](https://github.com/ROHIT318/rohit-blog) | In development phase
+[Attendance system using face recognition](https://github.com/ROHIT318/Face-Recognition-Attendance) | In development phase
+[Blog](https://github.com/ROHIT318/rohit-blog) | On hold
