@@ -1,5 +1,5 @@
 # ✒️Introduction
-*My name is Rohit Sharma. I am currently pursuing my MSc in Computer Science.*
+*My name is Rohit Sharma. I have got a BSc and MSc in Computer Science. Currently, working as a Data Analyst in PwC India.*
 
 
 # 📚Languages I know
