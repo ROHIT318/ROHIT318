@@ -38,7 +38,7 @@ Project | Status
 
 Project | Status
 --------|--------
-[PlayIQ]((https://github.com/ROHIT318/PlayIQ)) | In Progress
+[PlayIQ](https://github.com/ROHIT318/PlayIQ) | In Progress
 [Blog](https://github.com/ROHIT318/rohit-blog) | On hold
 
 
